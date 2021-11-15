@@ -13,6 +13,7 @@ ___
 
 
 ![Basic_Robo_Advisor.mp4](RoboAdvisor/Images/Basic_Robo_Advisor.mp4)
+
 ![Robo_No_Lambda.png](RoboAdvisor/Images/Robo_No_Lambda.png)
 
 ## Enhance the Robo Advisor with an Amazon Lambda Function
